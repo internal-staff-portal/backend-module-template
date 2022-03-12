@@ -1,0 +1,10 @@
+{
+  "name": "module-template",
+  "version": "1.0.0",
+  "description": "The \"module-template\" for backend module of the Internal-Staff-Portal.",
+  "main": "dist/index.js",
+  "repository": "https://github.com/internal-staff-portal/module-template.git",
+  "author": "Laurenz1606 <laurenz.rausche@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
